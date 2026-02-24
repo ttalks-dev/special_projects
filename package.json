@@ -1,0 +1,20 @@
+{
+  "name": "mace",
+  "version": "1.0.0",
+  "description": "Query OpenSearch and Elasticsearch, process data, export to Excel",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "run": "node src/index.js",
+    "export": "node src/index.js"
+  },
+  "keywords": ["opensearch", "elasticsearch", "excel", "export"],
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.15.0",
+    "@opensearch-project/opensearch": "^2.9.0",
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0"
+  }
+}

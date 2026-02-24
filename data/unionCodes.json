@@ -1,0 +1,457 @@
+[
+    {
+      "Item": "Vacation",
+      "Memo Code": "VAC",
+      "Earning Code": "VAT",
+      "Deduction Code": "VAT",
+      "": "Yellow add in Workforce Now"
+    },
+    {
+      "Item": "Working Assessment",
+      "Memo Code": "WRK",
+      "Earning Code": "WOA",
+      "Deduction Code": "WOA",
+      "": ""
+    },
+    {
+      "Item": "UBC",
+      "Memo Code": "UBC",
+      "Earning Code": "UBC",
+      "Deduction Code": "UBC",
+      "": ""
+    },
+    {
+      "Item": "Admin",
+      "Memo Code": "ADM",
+      "Earning Code": "ADM",
+      "Deduction Code": "ADM",
+      "": ""
+    },
+    {
+      "Item": "LMCC",
+      "Memo Code": "LMC",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "H&W",
+      "Memo Code": "HEW",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Pension",
+      "Memo Code": "PEN",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Annuity",
+      "Memo Code": "ANN",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Apprentice",
+      "Memo Code": "APP",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Advancement",
+      "Memo Code": "ADV",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "CITF",
+      "Memo Code": "CIT",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "CLMP",
+      "Memo Code": "CLM",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "HRA",
+      "Memo Code": "HRA",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Dues CkOff",
+      "Memo Code": "DUE",
+      "Earning Code": "DUE",
+      "Deduction Code": "DUE",
+      "": ""
+    },
+    {
+      "Item": "CheckOff",
+      "Memo Code": "IUC",
+      "Earning Code": "IUC",
+      "Deduction Code": "IUC",
+      "": ""
+    },
+    {
+      "Item": "IU Pension",
+      "Memo Code": "IUP",
+      "Earning Code": "IUP",
+      "Deduction Code": "IUP",
+      "": ""
+    },
+    {
+      "Item": "IMI",
+      "Memo Code": "IMI",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "IAF",
+      "Memo Code": "IAF",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "JATC",
+      "Memo Code": "JAT",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "LMC",
+      "Memo Code": "LCC",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Local Pension",
+      "Memo Code": "LOP",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Nat'l Pension",
+      "Memo Code": "NAP",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Ed",
+      "Memo Code": "EDD",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "PAC",
+      "Memo Code": "PAC",
+      "Earning Code": "PAC",
+      "Deduction Code": "PAC",
+      "": ""
+    },
+    {
+      "Item": "IND",
+      "Memo Code": "IND",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Training",
+      "Memo Code": "TRA",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Ann Ben. & Sick",
+      "Memo Code": "ABS",
+      "Earning Code": "ABS",
+      "Deduction Code": "ABS",
+      "": ""
+    },
+    {
+      "Item": "Dues Supp.",
+      "Memo Code": "DUS",
+      "Earning Code": "DUS",
+      "Deduction Code": "DUS",
+      "": ""
+    },
+    {
+      "Item": "LECET",
+      "Memo Code": "LEC",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Health&Safety",
+      "Memo Code": "HES",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Target",
+      "Memo Code": "TAR",
+      "Earning Code": "TAR",
+      "Deduction Code": "TAR",
+      "": ""
+    },
+    {
+      "Item": "L235 LECET",
+      "Memo Code": "L2L",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "JATF",
+      "Memo Code": "JAF",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "JATF-IUBAT",
+      "Memo Code": "JIU",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "LMCI",
+      "Memo Code": "LMI",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "PAT",
+      "Memo Code": "PAT",
+      "Earning Code": "PAT",
+      "Deduction Code": "PAT",
+      "": ""
+    },
+    {
+      "Item": "O/MA",
+      "Memo Code": "OMA",
+      "Earning Code": "OMA",
+      "Deduction Code": "OMA",
+      "": ""
+    },
+    {
+      "Item": "Promo",
+      "Memo Code": "PRO",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Scholarship",
+      "Memo Code": "SCH",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "PAF",
+      "Memo Code": "PAF",
+      "Earning Code": "PAF",
+      "Deduction Code": "PAF",
+      "": ""
+    },
+    {
+      "Item": "Legal",
+      "Memo Code": "LEG",
+      "Earning Code": "LEG",
+      "Deduction Code": "LEG",
+      "": ""
+    },
+    {
+      "Item": "Saving/PSL",
+      "Memo Code": "SAV",
+      "Earning Code": "SAV",
+      "Deduction Code": "SAV",
+      "": ""
+    },
+    {
+      "Item": "CAI",
+      "Memo Code": "CAI",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "LMCT",
+      "Memo Code": "LMT",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Tools",
+      "Memo Code": "TOL",
+      "Earning Code": "TOL",
+      "Deduction Code": "TOL",
+      "": ""
+    },
+    {
+      "Item": "Org",
+      "Memo Code": "ORG",
+      "Earning Code": "ORG",
+      "Deduction Code": "ORG",
+      "": ""
+    },
+    {
+      "Item": "LU PAC",
+      "Memo Code": "LUP",
+      "Earning Code": "LUP",
+      "Deduction Code": "LUP",
+      "": ""
+    },
+    {
+      "Item": "UA PAC",
+      "Memo Code": "UAP",
+      "Earning Code": "UAP",
+      "Deduction Code": "UAP",
+      "": ""
+    },
+    {
+      "Item": "LMCF",
+      "Memo Code": "LMF",
+      "Earning Code": "LMF",
+      "Deduction Code": "LMF",
+      "": ""
+    },
+    {
+      "Item": "ASB",
+      "Memo Code": "ASB",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "UA Pension",
+      "Memo Code": "UAE",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "ITF",
+      "Memo Code": "ITF",
+      "Earning Code": "ITF",
+      "Deduction Code": "ITF",
+      "": ""
+    },
+    {
+      "Item": "AJREIF",
+      "Memo Code": "AJR",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "INT Labor Management",
+      "Memo Code": "INT",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Supplemental Pension",
+      "Memo Code": "SUP",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "NYDCC",
+      "Memo Code": "NYD",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Ironworkers Impact",
+      "Memo Code": "IRO",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Dues, Union Security",
+      "Memo Code": "DSS",
+      "Earning Code": "DSS",
+      "Deduction Code": "DSS",
+      "": ""
+    },
+    {
+      "Item": "PIB Fringes",
+      "Memo Code": "PIB",
+      "Earning Code": "PIB",
+      "Deduction Code": "PIB",
+      "": ""
+    },
+    {
+      "Item": "Union Assessment",
+      "Memo Code": "UNA",
+      "Earning Code": "UNA",
+      "Deduction Code": "UNA",
+      "": ""
+    },
+    {
+      "Item": "ASB-C",
+      "Memo Code": "ASC",
+      "Earning Code": "ASC",
+      "Deduction Code": "ASB",
+      "": ""
+    },
+    {
+      "Item": "A.T.E",
+      "Memo Code": "ATE",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "A.E.F",
+      "Memo Code": "AEF",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "SUB",
+      "Memo Code": "SUB",
+      "Earning Code": "X",
+      "Deduction Code": "X",
+      "": ""
+    },
+    {
+      "Item": "Market Recovery",
+      "Memo Code": "MAR",
+      "Earning Code": "MAR",
+      "Deduction Code": "MAR",
+      "": ""
+    }
+  ]
